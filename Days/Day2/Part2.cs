@@ -4,7 +4,7 @@ namespace AdventOfCode2025.Days.Day2;
 
 internal class Part2 : DayPart
 {
-    public override bool HasPrecedence => true;
+    //public override bool HasPrecedence => true;
     //public override string InputFile => "Example.txt";
     //public override bool ShouldRejectWhiteSpaceLines => false;
 
